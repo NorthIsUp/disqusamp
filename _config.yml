@@ -11,7 +11,7 @@ email: adam@northisup.com
 description: > # this means to ignore newlines until "baseurl:"
   Musings on not much. Mainly used as a testing ground for disqus.
 
-baseurl: "/disqusamp/" # the subpath of your site, e.g. /blog
+baseurl: "/disqusamp" # the subpath of your site, e.g. /blog
 url: "http://northisup.github.io/" # the base hostname & protocol for your site
 permalink: '/:title/'
 
