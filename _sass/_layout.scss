@@ -241,27 +241,9 @@
     }
 }
 
-.amp-placeholder__wrap {
-    padding: 10px;
-}
 
-.amp-placeholder {
-    cursor: pointer;
-    border: none;
-    border-radius: 3px;
-    outline: none;
-    padding: 10px;
-    text-align: center;
-    display: block;
-    background-color: rgb(46, 159, 255);
-    color: #fff !important;
-    font-size: 12px;
-}
+.disqus-placeholder__wrap { padding: 10px; }
 
-.amp-placeholder__svg {
-    height: 16px;
-    width: 16px;
-    margin-right: 3px;
-    fill: #fff;
-    vertical-align: top;
-}
+.disqus-placeholder { border-radius: 3px; padding: 10px; text-align: center; background-color: #2e9fff; color: #fff; font-size: 12px; }
+
+.disqus-placeholder__svg { height: 16px; width: 16px; margin-right: 3px; fill: #fff; vertical-align: top; }
